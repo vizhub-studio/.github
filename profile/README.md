@@ -1,6 +1,6 @@
 # 🌐 VizHub Open Source
 
-The core technology behind **VizHub**, a platform for building interactive data visualizations with **D3** & **React**.
+The core technology behind **[VizHub](https://vizhub.com/)**, a platform for building interactive data visualizations with **D3** & **React**.
 
 ## The Open Source Projects
 
