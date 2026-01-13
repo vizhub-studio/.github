@@ -16,16 +16,16 @@ It is developed by **VizHub, Inc.**, founded by Curran Kelleher, and has been us
 
 VizHub exists in multiple forms:
 
-- **VizHub (vizhub.com)**  
+- [**VizHub Cloud**](vizhub.com)  
   The public, education-focused platform with a free tier and a paid Premium plan, widely used in courses, workshops, and self-guided learning.
 
-- **VizHub Pro (pro.vizhub.com)**  
+- [**VizHub Pro**](https://pro.vizhub.com)  
   A professional, team-oriented platform for building serious data visualizations with collaboration, AI assistance, and secure infrastructure.  
-  *(Currently in active development — private beta available.)*
+  *(Currently in active development.)* Enterprise software.
 
-- **VizHub Studio**  
+- [**VizHub Studio**](https://studio.vizhub.com/)
   The expert services arm of VizHub, delivering fixed-scope data visualization engagements.  
-  The **VizHub Studio Sprint** is a one-week, $5,000 engagement delivered inside VizHub Pro.
+  The **Data Visualization Sprint** is productized consulting engagement delivered using VizHub Pro internally.
 
 ---
 
