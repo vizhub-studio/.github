@@ -10,22 +10,18 @@ This GitHub organization contains the foundational libraries and tools that powe
 
 ## What is VizHub?
 
-**VizHub** is a platform for learning, teaching, and building production-quality data visualizations for the Web.
-
-It is developed by **VizHub, Inc.**, founded by Curran Kelleher, and has been used since 2018 by students, educators, and professional teams to create interactive visualizations with modern web technologies.
-
-VizHub exists in multiple forms:
-
-- [**VizHub Cloud**](vizhub.com)  
-  The public, education-focused platform with a free tier and a paid Premium plan, widely used in courses, workshops, and self-guided learning.
-
-- [**VizHub Pro**](https://pro.vizhub.com)  
-  A professional, team-oriented platform for building serious data visualizations with collaboration, AI assistance, and secure infrastructure.  
-  *(Currently in active development.)* Enterprise software.
+**VizHub, Inc.** offers the following products and services:
 
 - [**VizHub Studio**](https://studio.vizhub.com/)
   The expert services arm of VizHub, delivering fixed-scope data visualization engagements.  
   The **Data Visualization Sprint** is productized consulting engagement delivered using VizHub Pro internally.
+
+- [**VizHub Pro**](https://pro.vizhub.com)
+  A professional, team-oriented platform for building serious data visualizations with collaboration, AI assistance, and secure infrastructure.  
+  *(Currently in active development.)* Enterprise software.
+
+- [**VizHub Cloud**](https://vizhub.com)
+  The public, education-focused platform with a free tier and a paid Premium plan, widely used in courses, workshops, and self-guided learning.
 
 ---
 
