@@ -1,6 +1,8 @@
 # 🌐 VizHub Open Source
 
-Open-source core technology behind **[VizHub](https://vizhub.com/)** and **VizHub Pro** — a platform for building interactive data visualizations with **D3** and **React**.
+> Need dataviz? Check out [VizHub Studio](https://studio.vizhub.com/) - we build production-ready visuals for you
+
+Open-source core technology behind **[VizHub](https://vizhub.com/)** and **VizHub Pro**, a platform for building interactive data visualizations with **D3** and **React**.
 
 This GitHub organization contains the foundational libraries and tools that power VizHub’s editor, runtime, and collaboration features.
 
