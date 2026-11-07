@@ -46,6 +46,15 @@
 | [`vizhub-v1`](https://github.com/vizhub-studio/vizhub-v1) | 2019-12-19 | Wave 3 | Version 1 historical context |
 | [`codemirror-6-experiments`](https://github.com/vizhub-studio/codemirror-6-experiments) | 2019-02-22 | Wave 3 | Experiment setup and historical scope |
 
+## Documentation PR status (November 7, 2026)
+
+The following **public** Wave 1 documentation PRs have been opened for review. Opening a PR is not the same as merging or verifying its final contents:
+
+- [`vzcode` — documentation and issue navigation (PR #1226)](https://github.com/vizhub-studio/vzcode/pull/1226) — **open**
+- [`vizhub-docs` — historical feature notes and updated README (PR #6)](https://github.com/vizhub-studio/vizhub-docs/pull/6) — **open**
+
+Documentation PRs for private repositories are tracked outside this public catalog. Wave 0's organization standards PR must still be reviewed and merged before it becomes the default-branch standard.
+
 ## Rollout and updates
 
 - See [documentation standards](./DOCUMENTATION_STANDARDS.md) for the shared review checklist.
