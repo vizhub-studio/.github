@@ -23,28 +23,28 @@
 | [`screenshotgenie`](https://github.com/vizhub-studio/screenshotgenie) | 2025-12-02 | Wave 2 | Client API, configuration and examples |
 | [`codemirror-ot`](https://github.com/vizhub-studio/codemirror-ot) | 2025-10-22 | Wave 2 | CodeMirror and ShareDB collaboration integration |
 | [`vizhub-benchmarks`](https://github.com/vizhub-studio/vizhub-benchmarks) | 2025-09-20 | Wave 2 | Benchmark reproduction and scoring |
-| [`vizhub`](https://github.com/vizhub-studio/vizhub) | 2025-09-04 | Wave 3 | Historical platform architecture and product status |
+| [`vizhub`](https://github.com/vizhub-studio/vizhub) | 2025-09-04 | Wave 3 | Historical platform architecture and product status · [documentation PR #1471](https://github.com/vizhub-studio/vizhub/pull/1471) (opened for review November 7, 2026) |
 | [`viz-types`](https://github.com/vizhub-studio/viz-types) | 2025-08-19 | Wave 2 | Types and sample consumers |
-| [`vizhub-ui`](https://github.com/vizhub-studio/vizhub-ui) | 2025-07-10 | Wave 3 | UI package history, usage, current status |
+| [`vizhub-ui`](https://github.com/vizhub-studio/vizhub-ui) | 2025-07-10 | Wave 3 | UI package history, usage, current status · [documentation PR #29](https://github.com/vizhub-studio/vizhub-ui/pull/29) (opened for review November 7, 2026) |
 | [`vizhub-docs`](https://github.com/vizhub-studio/vizhub-docs) | 2025-07-08 | Wave 1 | Reconcile feature guide with current product |
 | [`sharedb-client-browser`](https://github.com/vizhub-studio/sharedb-client-browser) | 2025-05-20 | Wave 2 | Browser builds, compatibility and usage |
 | [`unidirectional-data-flow`](https://github.com/vizhub-studio/unidirectional-data-flow) | 2025-04-03 | Wave 2 | State pattern and examples |
-| [`vizhub-lite`](https://github.com/vizhub-studio/vizhub-lite) | 2025-02-16 | Wave 3 | Prototype scope and status |
+| [`vizhub-lite`](https://github.com/vizhub-studio/vizhub-lite) | 2025-02-16 | Wave 3 | Prototype scope and status · [documentation PR #2](https://github.com/vizhub-studio/vizhub-lite/pull/2) (opened for review November 7, 2026) |
 | [`codemirror-interact`](https://github.com/vizhub-studio/codemirror-interact) | 2025-01-22 | Wave 2 | Editor widget usage and integration |
 | [`vizhub-codemirror-theme`](https://github.com/vizhub-studio/vizhub-codemirror-theme) | 2025-01-22 | Wave 2 | Theme installation and customization |
 | [`vite-export-template`](https://github.com/vizhub-studio/vite-export-template) | 2025-01-16 | Wave 2 | Local export workflow and setup |
-| [`vizhub-feedback`](https://github.com/vizhub-studio/vizhub-feedback) | 2024-03-25 | Wave 3 | Replace stale feedback links, describe tracker |
+| [`vizhub-feedback`](https://github.com/vizhub-studio/vizhub-feedback) | 2024-03-25 | Wave 3 | Replace stale feedback links, describe tracker · [documentation PR #827](https://github.com/vizhub-studio/vizhub-feedback/pull/827) (opened for review November 7, 2026) |
 | [`prettier-plugin-svelte-browser`](https://github.com/vizhub-studio/prettier-plugin-svelte-browser) | 2024-01-29 | Wave 2 | Plugin compatibility and configuration |
-| [`vizhub-legacy`](https://github.com/vizhub-studio/vizhub-legacy) | 2024-01-02 | Wave 3 | Historical releases, correct deployed claims |
+| [`vizhub-legacy`](https://github.com/vizhub-studio/vizhub-legacy) | 2024-01-02 | Wave 3 | Historical releases, correct deployed claims · [documentation PR #521](https://github.com/vizhub-studio/vizhub-legacy/pull/521) (opened for review November 7, 2026) |
 | [`json1-presence`](https://github.com/vizhub-studio/json1-presence) | 2023-08-26 | Wave 2 | Fork differences, presence semantics |
 | [`multiscale-timeseries`](https://github.com/vizhub-studio/multiscale-timeseries) | 2023-04-05 | Wave 2 | Algorithm and API samples |
 | [`buble-jsx-only`](https://github.com/vizhub-studio/buble-jsx-only) | 2022-01-26 | Wave 2 | Fork scope and compatibility |
-| [`experimental-runtime`](https://github.com/vizhub-studio/experimental-runtime) | 2022-06-09 | Wave 3 | Design history and runtime limitations |
-| [`ubuntu-mono-ligaturized`](https://github.com/vizhub-studio/ubuntu-mono-ligaturized) | 2021-06-30 | Wave 3 | Attribution, usage, purpose |
+| [`experimental-runtime`](https://github.com/vizhub-studio/experimental-runtime) | 2022-06-09 | Wave 3 | Design history and runtime limitations · [documentation PR #3](https://github.com/vizhub-studio/experimental-runtime/pull/3) (opened for review November 7, 2026) |
+| [`ubuntu-mono-ligaturized`](https://github.com/vizhub-studio/ubuntu-mono-ligaturized) | 2021-06-30 | Wave 3 | Attribution, usage, purpose · [documentation PR #4](https://github.com/vizhub-studio/ubuntu-mono-ligaturized/pull/4) (opened for review November 7, 2026) |
 | [`prism-vizhub-theme`](https://github.com/vizhub-studio/prism-vizhub-theme) | 2020-11-10 | Wave 2 | Theme usage and examples |
 | [`vizhub-libraries`](https://github.com/vizhub-studio/vizhub-libraries) | 2020-12-15 | Archived exception | Archived index; do not unarchive implicitly |
-| [`vizhub-v1`](https://github.com/vizhub-studio/vizhub-v1) | 2019-12-19 | Wave 3 | Version 1 historical context |
-| [`codemirror-6-experiments`](https://github.com/vizhub-studio/codemirror-6-experiments) | 2019-02-22 | Wave 3 | Experiment setup and historical scope |
+| [`vizhub-v1`](https://github.com/vizhub-studio/vizhub-v1) | 2019-12-19 | Wave 3 | Version 1 historical context · [documentation PR #78](https://github.com/vizhub-studio/vizhub-v1/pull/78) (opened for review November 7, 2026) |
+| [`codemirror-6-experiments`](https://github.com/vizhub-studio/codemirror-6-experiments) | 2019-02-22 | Wave 3 | Experiment setup and historical scope · [documentation PR #31](https://github.com/vizhub-studio/codemirror-6-experiments/pull/31) (opened for review November 7, 2026) |
 
 ## Rollout and updates
 
