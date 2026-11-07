@@ -46,6 +46,28 @@
 | [`vizhub-v1`](https://github.com/vizhub-studio/vizhub-v1) | 2019-12-19 | Wave 3 | Version 1 historical context |
 | [`codemirror-6-experiments`](https://github.com/vizhub-studio/codemirror-6-experiments) | 2019-02-22 | Wave 3 | Experiment setup and historical scope |
 
+## Wave 3 public documentation PR tracker — November 7, 2026
+
+Wave 3 covered **nine public historical and prototype repositories** and additional work tracked only in access-controlled repositories. The nine public PRs below were opened for review as **Markdown-only** changes. An open PR is not a merge or verification of deployment state.
+
+| Public repository | Documentation PR | Snapshot status |
+| --- | --- | --- |
+| [`vizhub`](https://github.com/vizhub-studio/vizhub) | [#1471](https://github.com/vizhub-studio/vizhub/pull/1471) | Opened for review |
+| [`vizhub-ui`](https://github.com/vizhub-studio/vizhub-ui) | [#29](https://github.com/vizhub-studio/vizhub-ui/pull/29) | Opened for review |
+| [`vizhub-lite`](https://github.com/vizhub-studio/vizhub-lite) | [#2](https://github.com/vizhub-studio/vizhub-lite/pull/2) | Opened for review |
+| [`vizhub-feedback`](https://github.com/vizhub-studio/vizhub-feedback) | [#827](https://github.com/vizhub-studio/vizhub-feedback/pull/827) | Opened for review |
+| [`vizhub-legacy`](https://github.com/vizhub-studio/vizhub-legacy) | [#521](https://github.com/vizhub-studio/vizhub-legacy/pull/521) | Opened for review |
+| [`experimental-runtime`](https://github.com/vizhub-studio/experimental-runtime) | [#3](https://github.com/vizhub-studio/experimental-runtime/pull/3) | Opened for review |
+| [`ubuntu-mono-ligaturized`](https://github.com/vizhub-studio/ubuntu-mono-ligaturized) | [#4](https://github.com/vizhub-studio/ubuntu-mono-ligaturized/pull/4) | Opened for review |
+| [`vizhub-v1`](https://github.com/vizhub-studio/vizhub-v1) | [#78](https://github.com/vizhub-studio/vizhub-v1/pull/78) | Opened for review |
+| [`codemirror-6-experiments`](https://github.com/vizhub-studio/codemirror-6-experiments) | [#31](https://github.com/vizhub-studio/codemirror-6-experiments/pull/31) | Opened for review |
+
+The historical [`vizhub-libraries`](https://github.com/vizhub-studio/vizhub-libraries) repository remains **archived and unchanged**. Do not unarchive solely to complete the documentation count.
+
+**Updated access snapshot (November 7, 2026):** 47 repositories visible to the connected audit account: **35 public** (including one archived) and **12 private**. The public table above retains its original November 6 last-push snapshot; a newly accessible private repository is outside this historical Wave 3 plan. Do not add private repository names or PR links to this public tracker.
+
+**Review gates:** Verify local Markdown links, current source-backed scripts, legacy-host language, licensing and deployment cautions. The documentation pass verified changed-file scope via GitHub; it did **not** run local builds, tests, or external link checks. Use each PR for its merge and review status.
+
 ## Rollout and updates
 
 - See [documentation standards](./DOCUMENTATION_STANDARDS.md) for the shared review checklist.
