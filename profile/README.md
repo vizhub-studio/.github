@@ -1,61 +1,20 @@
-# 🌐 VizHub Open Source
+# VizHub open source
 
-> Need dataviz? Check out [VizHub Studio](https://studio.vizhub.com/) - we build production-ready visuals for you
+**[VizHub](https://vizhub.com/)** is a platform for creating, exploring, and sharing interactive data visualizations. This organization contains open-source building blocks, research prototypes, and educational materials related to VizHub.
 
-Open-source core technology behind **[VizHub](https://vizhub.com/)** and **VizHub Pro**, a platform for building interactive data visualizations with **D3** and **React**.
+## Explore the projects
 
-This GitHub organization contains the foundational libraries and tools that power VizHub’s editor, runtime, and collaboration features.
+- **[VZCode](https://github.com/vizhub-studio/vzcode)** — a code editor with real-time collaboration capabilities.
+- **[VizHub Runtime](https://github.com/vizhub-studio/vizhub-runtime)** — tooling for running visualizations in browser environments.
+- **[magic-sandbox](https://github.com/vizhub-studio/magic-sandbox)** — an HTML sandbox for multiple dynamic files.
+- **[editcodewithai](https://github.com/vizhub-studio/editcodewithai)** — tooling for LLM-assisted source editing.
+- **[codemirror-ot](https://github.com/vizhub-studio/codemirror-ot)** — CodeMirror collaboration integration.
+- **[Constructing Visualizations](https://github.com/vizhub-studio/constructing-visualizations)** — example code for learning and teaching visualization.
 
----
+This is a selection, not a list of components confirmed to be running in production. For the broader inventory, see the [public repository catalog](https://github.com/vizhub-studio/.github/blob/main/REPOSITORY_CATALOG.md).
 
-## What is VizHub?
+## Documentation and contributions
 
-**VizHub, Inc.** offers the following products and services:
+The organization uses a [shared documentation standard](https://github.com/vizhub-studio/.github/blob/main/DOCUMENTATION_STANDARDS.md) covering verified setup instructions, accurate project status, historical context and clear cross-repository links. Individual repositories provide their own contribution and license information; consult those files before making changes.
 
-- [**VizHub Studio**](https://studio.vizhub.com/)
-  The expert services arm of VizHub, delivering fixed-scope data visualization engagements.  
-  The **Data Visualization Sprint** is productized consulting engagement delivered using VizHub Pro internally.
-
-- [**VizHub Pro**](https://pro.vizhub.com)
-  A professional, team-oriented platform for building serious data visualizations with collaboration, AI assistance, and secure infrastructure.  
-  *(Currently in active development.)* Enterprise software.
-
-- [**VizHub Cloud**](https://vizhub.com)
-  The public, education-focused platform with a free tier and a paid Premium plan, widely used in courses, workshops, and self-guided learning.
-
----
-
-## Open Source Projects
-
-This organization hosts the open-source components that make VizHub possible:
-
-- **`vzcode`**  
-  An in-browser code editor for data visualization, built on  
-  [CodeMirror](https://codemirror.net/) and [ShareDB](https://share.github.io/sharedb/) for real-time collaboration.
-
-- **`vizhub-runtime`**  
-  A secure sandbox for executing and rendering visualizations, built on  
-  [Rollup](https://rollupjs.org/) and [Sucrase](https://www.npmjs.com/package/sucrase).
-
-- **`editcodewithai`**  
-  A one-shot, LLM-driven source code editing tool used to power AI-assisted workflows.
-
-These projects are designed to be useful independently, and are also composed together in VizHub’s hosted products.
-
----
-
-## Why Open Source?
-
-VizHub is built in the open because data visualization is both a **craft** and a **teaching discipline**.
-
-Open source enables:
-- Learning by reading real, production code
-- Reuse across frameworks and environments
-- Long-term sustainability beyond any single product
-- Community contributions that improve the ecosystem for everyone
-
----
-
-## Our Mission
-
-**Build the world’s best open environment for learning, teaching, and creating data visualization.**
+Our aim is to make data visualization easier to learn, teach, and build with—through open tools, examples, and collaboration.
