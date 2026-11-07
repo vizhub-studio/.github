@@ -46,6 +46,37 @@
 | [`vizhub-v1`](https://github.com/vizhub-studio/vizhub-v1) | 2019-12-19 | Wave 3 | Version 1 historical context |
 | [`codemirror-6-experiments`](https://github.com/vizhub-studio/codemirror-6-experiments) | 2019-02-22 | Wave 3 | Experiment setup and historical scope |
 
+## Wave 2 PR tracker — November 7, 2026
+
+The component/library/template documentation pass opened **22 independent Markdown-only PRs**. "Opened for review" records the state at the time of this snapshot; follow each PR for its current review, CI, and merge status. None is recorded as merged solely because it has a PR.
+
+| Public repository | Documentation PR | Snapshot status |
+| --- | --- | --- |
+| [`constructing-visualizations`](https://github.com/vizhub-studio/constructing-visualizations) | [#50](https://github.com/vizhub-studio/constructing-visualizations/pull/50) | Opened for review |
+| [`magic-sandbox`](https://github.com/vizhub-studio/magic-sandbox) | [#50](https://github.com/vizhub-studio/magic-sandbox/pull/50) | Opened for review |
+| [`llm-code-format`](https://github.com/vizhub-studio/llm-code-format) | [#24](https://github.com/vizhub-studio/llm-code-format/pull/24) | Opened for review |
+| [`editcodewithai`](https://github.com/vizhub-studio/editcodewithai) | [#38](https://github.com/vizhub-studio/editcodewithai/pull/38) | Opened for review |
+| [`vizhub-runtime`](https://github.com/vizhub-studio/vizhub-runtime) | [#73](https://github.com/vizhub-studio/vizhub-runtime/pull/73) | Opened for review |
+| [`d3-react-dashboard-starter`](https://github.com/vizhub-studio/d3-react-dashboard-starter) | [#2](https://github.com/vizhub-studio/d3-react-dashboard-starter/pull/2) | Opened for review |
+| [`big-data-query`](https://github.com/vizhub-studio/big-data-query) | [#3](https://github.com/vizhub-studio/big-data-query/pull/3) | Opened for review |
+| [`viz-utils`](https://github.com/vizhub-studio/viz-utils) | [#15](https://github.com/vizhub-studio/viz-utils/pull/15) | Opened for review |
+| [`screenshotgenie`](https://github.com/vizhub-studio/screenshotgenie) | [#1](https://github.com/vizhub-studio/screenshotgenie/pull/1) | Opened for review |
+| [`codemirror-ot`](https://github.com/vizhub-studio/codemirror-ot) | [#74](https://github.com/vizhub-studio/codemirror-ot/pull/74) | Opened for review |
+| [`vizhub-benchmarks`](https://github.com/vizhub-studio/vizhub-benchmarks) | [#12](https://github.com/vizhub-studio/vizhub-benchmarks/pull/12) | Opened for review |
+| [`viz-types`](https://github.com/vizhub-studio/viz-types) | [#7](https://github.com/vizhub-studio/viz-types/pull/7) | Opened for review |
+| [`sharedb-client-browser`](https://github.com/vizhub-studio/sharedb-client-browser) | [#19](https://github.com/vizhub-studio/sharedb-client-browser/pull/19) | Opened for review |
+| [`unidirectional-data-flow`](https://github.com/vizhub-studio/unidirectional-data-flow) | [#5](https://github.com/vizhub-studio/unidirectional-data-flow/pull/5) | Opened for review |
+| [`codemirror-interact`](https://github.com/vizhub-studio/codemirror-interact) | [#2](https://github.com/vizhub-studio/codemirror-interact/pull/2) | Opened for review |
+| [`vizhub-codemirror-theme`](https://github.com/vizhub-studio/vizhub-codemirror-theme) | [#1](https://github.com/vizhub-studio/vizhub-codemirror-theme/pull/1) | Opened for review |
+| [`vite-export-template`](https://github.com/vizhub-studio/vite-export-template) | [#18](https://github.com/vizhub-studio/vite-export-template/pull/18) | Opened for review |
+| [`prettier-plugin-svelte-browser`](https://github.com/vizhub-studio/prettier-plugin-svelte-browser) | [#1](https://github.com/vizhub-studio/prettier-plugin-svelte-browser/pull/1) | Opened for review |
+| [`json1-presence`](https://github.com/vizhub-studio/json1-presence) | [#5](https://github.com/vizhub-studio/json1-presence/pull/5) | Opened for review |
+| [`multiscale-timeseries`](https://github.com/vizhub-studio/multiscale-timeseries) | [#8](https://github.com/vizhub-studio/multiscale-timeseries/pull/8) | Opened for review |
+| [`buble-jsx-only`](https://github.com/vizhub-studio/buble-jsx-only) | [#6](https://github.com/vizhub-studio/buble-jsx-only/pull/6) | Opened for review |
+| [`prism-vizhub-theme`](https://github.com/vizhub-studio/prism-vizhub-theme) | [#1](https://github.com/vizhub-studio/prism-vizhub-theme/pull/1) | Opened for review |
+
+**Review gates:** Confirm package scripts and linked source paths against the PR's base commit; run applicable documentation/build/test checks in the relevant project; check Markdown navigation and security cautions. The PRs were written using connected GitHub source inspection; local builds, tests and automated link checks were not executed by this documentation pass.
+
 ## Rollout and updates
 
 - See [documentation standards](./DOCUMENTATION_STANDARDS.md) for the shared review checklist.
